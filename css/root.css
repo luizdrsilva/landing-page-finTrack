@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root{
+    --verde-principal: #00A859;
+    --verde-claroSoft: #D1F4E2;
+    --dark_header_footer: #051E17;
+    --fundo-principal: #FAFCFB;
+    --fundo-cards: #FFFFFF;
+    --texto-principal: #111827;
+    --texto-secundario: #4B5563;
+    --bordar-outline: rgb(250, 250, 250);
+    --destaque: #FFB800;
+
+    --titulo-destaque: "Inter", sans-serif;
+}
