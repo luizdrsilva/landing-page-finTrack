@@ -87,7 +87,6 @@ body{
 .content-header{
     display: flex;
     justify-content: space-between;
-    height: 60vh;
     position: relative;
     overflow: hidden;
     padding-left: 30px;
