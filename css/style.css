@@ -6,14 +6,12 @@
     box-sizing: border-box;
     font-family: var(--titulo-destaque);
 }
-html{
-    outline: 1px solid red;
-}
+
 body{
 
     max-width: 1124px;
     width: 100%;
-    /* outline: 1px solid blue; */
+
 }
 /* Header menu*/
 .main-header{
