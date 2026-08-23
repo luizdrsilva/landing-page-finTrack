@@ -2,7 +2,7 @@
 
 Landing page de uma plataforma fictícia de controle financeiro pessoal.
 
-O projeto foi desenvolvido durante meus estudos de **HTML e CSS**, com foco em estrutura semântica, organização de layouts, responsividade e criação de uma interface moderna para uma aplicação financeira.
+O projeto foi desenvolvido com **HTML5 e CSS3**, com foco em estruturação de páginas, criação de layouts modernos, responsividade e organização visual de uma landing page completa.
 
 ## 🚀 Tecnologias
 
@@ -11,7 +11,17 @@ O projeto foi desenvolvido durante meus estudos de **HTML e CSS**, com foco em e
 
 ## 🎯 Objetivo
 
-Praticar os fundamentos de desenvolvimento Front-End e aplicar conceitos de estruturação, estilização e responsividade em um projeto completo.
+Projeto desenvolvido para praticar os fundamentos de desenvolvimento Front-End, aplicando conceitos de:
+
+- Estrutura semântica com HTML
+- Layout e estilização com CSS
+- Responsividade
+- Organização de componentes visuais
+- Uso de imagens e elementos gráficos
+
+## 🌐 Deploy
+
+[🔗 Acessar o FinTrack](https://landing-page-fin-track.vercel.app/)
 
 ## 📌 Status
 
